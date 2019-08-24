@@ -1,4 +1,4 @@
-# THIS IS KADANES ALGO = > MAXIMUM CONTIGUOUS SUBARRAY PROBLEM (DP) in O(n)
+# THIS IS KADANES ALGO = > MAXIMUM SUM CONTIGUOUS SUBARRAY PROBLEM (DP) in O(n)
 def kadanes(l):
     local_max=0
     global_max=0
